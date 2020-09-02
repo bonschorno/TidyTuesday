@@ -1,3 +1,16 @@
+<h3>Week 35: Cereal Yields</h3>	
+
+<br><br>
+
+![./plots/2020_35_CerealYields.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020_33_Avatar.png)
+
+
+<h3>Week 34: Plants in Danger</h3>	
+
+<br><br>
+
+![./plots/2020_34_PlantsInDanger.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020_33_Avatar.png)
+
 <h3>Week 33: Avatar - The Last Airbender</h3>	
 
 <br><br>
