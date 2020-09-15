@@ -2,6 +2,13 @@
 
 On the following page, all my visualizations for the #TidyTuesday challenge are listed in chronological order. 
 
+<h3>Week 35: US public spending on education in the US</h3>	
+
+<br><br>
+
+![./plots/2020_38_GovspendingsKids.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020_38_GovspendingsKids.png)
+
+
 <h3>Week 35: Cereal Yields</h3>	
 
 <br><br>
