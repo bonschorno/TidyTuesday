@@ -6,7 +6,7 @@ On the following page, all my visualizations for the #TidyTuesday challenge are 
 
 <br><br>
 
-![./plots/2020_40_SwiftLyrics.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020_38_GovspendingKids.png)
+![./plots/2020_40_SwiftLyrics.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020_40_SwiftLyrics.png)
 
 <h3>Week 38: US public spending on education in the US</h3>	
 
