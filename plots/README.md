@@ -15,8 +15,7 @@ On the following page, all my visualizations for the #TidyTuesday challenge are 
 
 ![./plots/2021/2021_02_TransitCosts.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2021/2021_02_TransitCosts.png)
 
-
-<h2>2020</h2>	
+# 2020
 
 <h3>Week 40: Taylor Swift Lyrics</h3>	
 
