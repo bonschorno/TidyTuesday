@@ -2,6 +2,22 @@
 
 On the following page, all my visualizations for the #TidyTuesday challenge are listed in chronological order. 
 
+<h3>Week 03: Art Collections</h3>	
+
+<br>
+
+![./plots/2021/2021_03_ArtCollections.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2021/2021_03_ArtCollections.png)
+
+
+<h3>Week 02: Transit Costs</h3>	
+
+<br>
+
+![./plots/2021/2021_02_TransitCosts.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2021/2021_02_TransitCosts.png)
+
+
+<h2>2020</h2>	
+
 <h3>Week 40: Taylor Swift Lyrics</h3>	
 
 <br>
@@ -12,7 +28,7 @@ On the following page, all my visualizations for the #TidyTuesday challenge are 
 
 <br>
 
-![./plots/2020/2020_38_GovspendingKids.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/2020/plots/2020_38_GovspendingKids.png)
+![./plots/2020/2020_38_GovspendingKids.png](https://raw.githubusercontent.com/bonschorno/TidyTuesday/master/plots/2020/2020_38_GovspendingKids.png)
 
 
 <h3>Week 35: Cereal Yields</h3>	
