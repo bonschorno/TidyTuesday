@@ -1,16 +1,12 @@
-# week 2: Transit Cost
+# Tidy Tuesday (Week 2): Transit Costs
 
-library(tidyverse)
-library(ggtext)
-library(ggbeeswarm)
+library(tidyverse) # data wrangling
+library(ggtext) # improved text rendering
+library(ggbeeswarm) # quasi-random points
 
 # getting the data----
 
 data <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2021/2021-01-05/transit_cost.csv')
-
-transit <- data %>% 
-  filter(country == "CN", 
-         start_year %in% seq(1997, 2024,1)) 
 
 countries <- data %>% 
   group_by(country) %>% 
@@ -58,4 +54,4 @@ data %>%
         text = element_text(family = "Lora SemiBold"),
         plot.margin = unit(c(0.5,0.5,0.5,0), "cm"))
 
-ggsave("2021_02_TransitCosts.png", dpi = 500, height = 25, width = 20, units = "cm")
+ggsave("plots/2021/2021_02_TransitCosts.png", dpi = 500, height = 25, width = 20, units = "cm")
